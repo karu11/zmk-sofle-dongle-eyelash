@@ -8,6 +8,8 @@ manifest:
       url-base: https://github.com/tokyo2006
     - name: englmaxi
       url-base: https://github.com/englmaxi
+    - name: joaopedropio
+      url-base: https://github.com/joaopedropio
   projects:
     - name: mario-peripheral-animation
       remote: gpeye
