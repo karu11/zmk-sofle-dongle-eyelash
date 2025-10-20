@@ -1,5 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#include "eyeslash_sofle.dtsi"
+#include "eyelash_sofle.dtsi"
 
 / {
     chosen {
