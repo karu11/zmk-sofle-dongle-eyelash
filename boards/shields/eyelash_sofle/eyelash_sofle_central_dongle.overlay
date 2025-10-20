@@ -26,12 +26,3 @@
         events = <0>;
     };
 };
-
-/ {
-    behaviors {
-        mo_lyr: behavior_mo {
-            compatible = "zmk,behavior-momentary-layer";
-            label = "MO_LYR";
-        };
-    };
-};
