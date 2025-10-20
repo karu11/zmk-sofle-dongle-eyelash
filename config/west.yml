@@ -8,6 +8,8 @@ manifest:
       url-base: https://github.com/englmaxi
     - name: infely
       url-base: https://github.com/infely
+    - name: joaopedropio
+      url-base: https://github.com/joaopedropio
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -22,5 +24,8 @@ manifest:
     - name: nice-view-battery
       remote: infely
       revision: main
+    - name: snake-module
+      remote: joaopedropio
+      revision: master
   self:
     path: config
